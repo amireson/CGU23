@@ -22,7 +22,7 @@ title: CGU 2023 - Abstracts
 email: andrew.ireson@usask.ca
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/CGU23" # the subpath of your site, e.g. /blog
-url: "" # "shyr.ca" # the base hostname & protocol for your site, e.g. http://example.com
+url: "shyr.ca" # the base hostname & protocol for your site, e.g. http://example.com
   #twitter_username: jekyllrb
   #github_username:  jekyll
 
