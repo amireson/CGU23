@@ -2,7 +2,7 @@
 layout: home
 ---
 
-This should be the homepage - nice and simples
+This page contains abstracts submitted to the 2023 CGU meeting for reviewing purposes by the section VPs and session convenors.
 
 [Hydrology](Hydrology)
 
