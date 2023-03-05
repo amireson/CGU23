@@ -3,15 +3,17 @@ layout: home
 ---
 
 
-[von_Sperber_Tracing_](von_Sperber_Tracing_)
+[H08: Subcatchment characteristics drive spatial hydrologic connectivity and hydrochemical patterns in a mesoscale subarctic mountain catchment.](H08_Grewa_Subcatch)
 
-[Holmes_Improvin](Holmes_Improvin)
+[H08: Improving flow simulations with isotope-enabled hydrologic model calibration](H08_Holme_Improvin)
 
-[Spooner_Lake_lev](Spooner_Lake_lev)
+[H08: Surface water Groundwater Interaction in the Oil Sands Region of Alberta](H08_Stadn_Surfacew)
 
-[Wang_A_1000-y](Wang_A_1000-y)
+[H08: Impacts of Climate Change on Streamflow and Hydrologic Partitioning Across a Mesoscale Precambrian Shield Watershed in Northeastern Ontario](H08_Tafvi_Impactso)
 
-[Stadnyk_Surface_](Stadnyk_Surface_)
+[H08: Tracing phosphorus along the soil-freshwater continuum using stable isotopes of oxygen](H08_vonSp_Tracingp)
 
-[Tafvizi_Impacts_](Tafvizi_Impacts_)
+[H08: Lake level influence on groundwater upwelling in shore-spawning kokanee habitat in Kootenay Lake, British Columbia.](H08_Spoon_Lakeleve)
+
+[H08: A 1000-yr record of temperature from isotopic analysis of the deep critical zone in central China](H08_Wang0_Ayrrecor)
 

@@ -3,11 +3,9 @@ layout: home
 ---
 
 
-[Kao_An_Overv](Kao_An_Overv)
+[S01: Statistical and clustering analysis of microseismicity from a potash mine in Saskatchewan](S01_Shche_Statisti)
 
-[Sabermahani_Improved](Sabermahani_Improved)
+[S01: Pore pressure as a predictive factor for seismicity in the regions of Alberta and British Columbia](S01_Esmae_Porepres)
 
-[Esmaeilzadeh_Pore_pre](Esmaeilzadeh_Pore_pre)
-
-[Shcherbakov_Statisti](Shcherbakov_Statisti)
+[S01: An Overview of Recent M4+ Earthquake Sequences in BC and AB and Their Controversies](S01_Kao00_AnOvervi)
 

@@ -3,9 +3,9 @@ layout: home
 ---
 
 
-[Darbyshire_Lithosph](Darbyshire_Lithosph)
+[S03: Lithospheric Fabric and Active Mantle Flow Beneath Canada from Craton to Cordillera: Evidence from Depth-Dependent Seismic Anisotropy](S03_Darby_Lithosph)
 
-[Bao_Southern](Bao_Southern)
+[S03: Southern Tibetan rifting since the late Miocene enabled by basal shear of the underthrusting Indian lithosphere](S03_Bao00_Southern)
 
-[Bagheriashena_A_novel_](Bagheriashena_A_novel_)
+[S03: A novel Deep Network Inversion of Magnetic Anomalies to Estimate Basement Structure](S03_Baghe_AnovelDe)
 

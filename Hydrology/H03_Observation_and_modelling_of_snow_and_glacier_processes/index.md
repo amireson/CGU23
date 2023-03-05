@@ -3,15 +3,17 @@ layout: home
 ---
 
 
-[Valence_Quantify](Valence_Quantify)
+[H03: Quantifying the snowpack surface energy budget of a subarctic alpine catchment: Shar Ta Gà’ (Grizzly Creek), Yukon](H03_Valen_Quantify)
 
-[Fang_Simulati](Fang_Simulati)
+[H03: Snow Interception Processes and Prediction in a Windswept Subalpine Environment](H03_Cebul_SnowInte)
 
-[Bertoncini_Assimila](Bertoncini_Assimila)
+[H03: Characterization of the turbulent fluxes and surface melt for two Canadian Rockies glaciers](H03_Aubry_Characte)
 
-[Harder_Distribu](Harder_Distribu)
+[H03: Distributed modelling of the Canadian Prairie snowpack: model evaluation and demonstration](H03_Harde_Distribu)
 
-[Chai_Contribu](Chai_Contribu)
+[H03: Assimilation of Satellite Albedo to Improve Simulations of Glacier Hydrology](H03_Berto_Assimila)
 
-[Aubry-Wake_Characte](Aubry-Wake_Characte)
+[H03: Simulation of hydrological impact of future changes in climate and glacier cover for Bow River headwater basins in the Canadian Rockies](H03_Fang0_Simulati)
+
+[H03: Contributions of glaciers to streamflow in Illecillewaet catchment and how they have varied in response to climatic variability and glacier retreat](H03_Chai0_Contribu)
 

@@ -3,5 +3,5 @@ layout: home
 ---
 
 
-[Akbari_Moho_Dis](Akbari_Moho_Dis)
+[S00: Moho Discontinuity Estimation under the Ulleung Basin using Gravity Inversion](S00_Akbar_MohoDisc)
 

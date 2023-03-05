@@ -3,29 +3,31 @@ layout: home
 ---
 
 
-[VanderZaag_Effects_](VanderZaag_Effects_)
+[C02: Effects of weather and climate on methane emissions from manure storages](C02_Vande_Effectso)
 
-[VanderZaag_Indicato](VanderZaag_Indicato)
+[C02: Characterizing the non-stationarity in annual maximum rainfall under the changing climate: A Bayesian based stochastic modeling approach](C02_Kasia_Characte)
 
-[Moore_Hydrocli](Moore_Hydrocli)
+[C02: Impacts of managed dike realignment on soils and shallow groundwater](C02_Tackl_Impactso)
 
-[Polsinelli_A_Case_S](Polsinelli_A_Case_S)
+[C02: A framework to evaluate agricultural water management techniques to enhance crop productivity using a coupled hydrological crop growth model for the Canadian Prairies](C02_Harde_Aframewo)
 
-[Harder_A_framew](Harder_A_framew)
+[C02: Comparison of vegetation indices derived from VIIRS and MODIS satellites and their application for operational crop yield forecasting](C02_Zhang_Comparis)
 
-[Curasi_Represen](Curasi_Represen)
+[C02: A Case Study in Prince Edward Island, Canada: Comparing Process Based Models and Machine Learning for Potato Yield Prediction](C02_Polsi_ACaseStu)
 
-[Kasiapillai_Sudalaimuthu_Characte](Kasiapillai_Sudalaimuthu_Characte)
+[C02: Uncorking spatial variability in Ontario vineyards](C02_Willi_Uncorkin)
 
-[Williamson_Uncorkin](Williamson_Uncorkin)
+[C02: Indicators of potential heat stress in livestock barns in current and future climates](C02_Vande_Indicato)
 
-[Qian_Warmer_f](Qian_Warmer_f)
+[C02: CComparison of methods to estimate fuel moisture content in different forest stand types in central British Columbia](C02_Xiao0_CCompari)
 
-[Guo_Quantify](Guo_Quantify)
+[C02: Warmer future climate in Canada – implications for plant hardiness and winter survival of perennial forage crops](C02_Qian0_Warmerfu)
 
-[Champagne_Forecast](Champagne_Forecast)
+[C02: Forecasting Drought in Canada using Numerical Weather Prediction Data](C02_Champ_Forecast)
 
-[Zhang_Comparis](Zhang_Comparis)
+[C02: Quantifying the Hydrological Effects of Agricultural Land-use and Climate Change in a Cold Semi-Arid Region](C02_Guo00_Quantify)
 
-[Xiao_CCompari](Xiao_CCompari)
+[C02: Hydroclimatic and environmental effects on the run timing of kokanee salmon in Peachland Creek, British Columbia](C02_Moore_Hydrocli)
+
+[C02: Representing boreal fire, harvest, and subgrid-scale heterogeneity in the Canadian Land Surface Scheme Including Biogeochemical Cycles.](C02_Curas_Represen)
 
