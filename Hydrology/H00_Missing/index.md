@@ -3,9 +3,19 @@ layout: home
 ---
 
 
-[H00: How landscape and hydrological flow paths control organic matter and runoff chemistry in the Niaqunguk (Apex) River watershed, NU](H00_Nguye_Howlands)
+**Convenors**:
+
+<a href="mailto:aolusola@yorku.ca">aolusola@yorku.ca</a>
+
+<a href="mailto:papangee@mcmaster.ca">papangee@mcmaster.ca</a>
+
+<a href="mailto:quinn.lewis@uwaterloo.ca">quinn.lewis@uwaterloo.ca</a>
+
+**Oral sessions**:
 
 [H00: Observed and modeled water temperature dynamics in a coastal Marine Protected Area (Basin Head lagoon, PEI)](H00_Zeigh_Observed)
+
+[H00: Bulk density, particle density, and porosity of two species of Sphagnum: Variability in measurement techniques and spatial distribution](H00_Whitt_Bulkdens)
 
 [H00: Examining variability in snow and lake ice using digital camera imagery in the Canadian High Arctic](H00_Lane0_Examinin)
 
@@ -16,4 +26,8 @@ layout: home
 [H00: Environmental drivers of boreal tree water deficit from treeline to treeline in Canada’s western boreal forest](H00_Perro_Environm)
 
 [H00: Long-term ground temperature and hydro-meteorological data management and applications at Trail Valley Creek Research Station](H00_Tutto_Longterm)
+
+**Poster sessions**:
+
+[H00: How landscape and hydrological flow paths control organic matter and runoff chemistry in the Niaqunguk (Apex) River watershed, NU](H00_Nguye_Howlands)
 

@@ -4,9 +4,9 @@ title: "Bulk density, particle density, and porosity of two species of Sphagnum:
 ---
 
 
-**Abstract ID**: M00_Whitt_Bulkdens
+**Abstract ID**: H00_Whitt_Bulkdens
 
-Session ID: [M00](.)
+Session ID: [H00](.)
 
 Corresponding author: Pete Whittington <a href="mailto:whittington.pete@gmail.com">whittington.pete@gmail.com</a>
 

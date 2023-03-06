@@ -3,6 +3,16 @@ layout: home
 ---
 
 
+**Convenors**:
+
+<a href="mailto:aolusola@yorku.ca">aolusola@yorku.ca</a>
+
+<a href="mailto:papangee@mcmaster.ca">papangee@mcmaster.ca</a>
+
+<a href="mailto:quinn.lewis@uwaterloo.ca">quinn.lewis@uwaterloo.ca</a>
+
+**Oral sessions**:
+
 [H05: Hydrogeology in Frozen Soils : the effect of soil freezing characteristic curves on modelled discharge](H05_Devoi_Hydrogeo)
 
 [H05: Distribution of Aufeis in Northern Canada: Recent Advances with Google Earth Engine Mapping](H05_Morse_Distribu)
@@ -19,7 +29,9 @@ layout: home
 
 [H05: Groundwater - surface water interaction in a mountainous permafrost catchment](H05_Peter_Groundwa)
 
-[H05: The influence of soil moisture and preferential flow on ground thaw in the Taiga Shield, NWT](H05_Muenc_Theinflu)
-
 [H05: Hydrological investigation of the effects of permafrost thaw to High Arctic watersheds, case study from Eureka Sound Lowlands, Nunavut.](H05_Campb_Hydrolog)
+
+**Poster sessions**:
+
+[H05: The influence of soil moisture and preferential flow on ground thaw in the Taiga Shield, NWT](H05_Muenc_Theinflu)
 

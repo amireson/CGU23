@@ -3,7 +3,15 @@ layout: home
 ---
 
 
-[H11: Fractional Snow Cover as a Predictor in Empirical Stream Temperature Modelling](H11_Colli_Fraction)
+**Convenors**:
+
+<a href="mailto:aolusola@yorku.ca">aolusola@yorku.ca</a>
+
+<a href="mailto:papangee@mcmaster.ca">papangee@mcmaster.ca</a>
+
+<a href="mailto:quinn.lewis@uwaterloo.ca">quinn.lewis@uwaterloo.ca</a>
+
+**Oral sessions**:
 
 [H11: Modelling contributions of riparian vegetation and topography to stream shade and view factors using LiDAR and conventional elevation data](H11_Brown_Modellin)
 
@@ -18,4 +26,8 @@ layout: home
 [H11: Nechako Watershed stream temperature monitoring and research, 2019-2023](H11_Dery0_NechakoW)
 
 [H11: Monitoring and modeling of riverine thermal regimes in northern British Columbia, Canada](H11_Islam_Monitori)
+
+**Poster sessions**:
+
+[H11: Fractional Snow Cover as a Predictor in Empirical Stream Temperature Modelling](H11_Colli_Fraction)
 

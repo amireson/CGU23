@@ -3,7 +3,15 @@ layout: home
 ---
 
 
-[B03: Effects of Forest Harvesting on Carbon and Nitrogen Levels in Soils and Stream Sediments in Northwestern Ontario](B03_Gigi0_Effectso)
+**Convenors**:
+
+<a href="mailto:colin.whitfield@usask.ca">colin.whitfield@usask.ca</a>
+
+<a href="mailto:murray.richardson@carleton.ca">murray.richardson@carleton.ca</a>
+
+<a href="mailto:n.casson@uwinnipeg.ca">n.casson@uwinnipeg.ca</a>
+
+**Oral sessions**:
 
 [B03: Drivers of dissolved organic matter quality and concentration across a complex mountainous subarctic catchment.](B03_Frist_Driverso)
 
@@ -13,11 +21,15 @@ layout: home
 
 [B03: Mercury storage in the Hudson Bay Lowlands: A case study on estimating mercury storage using a mercury to carbon ratio and the impacts of including spatial variation while upscaling](B03_Kirkw_Mercurys)
 
-[B03: The triple oxygen isotope system and the phosphorus cycle](B03_Listl_Thetripl)
-
-[B03: Examining Bioavailable Heavy Metals across Urban Riparian Zone Sediments of Southern Ontario](B03_Holla_Examinin)
-
 [B03: Local Controls on Greenhouse Gas Production in a Freshwater Mineral Wetland](B03_Jones_LocalCon)
 
 [B03: Soil phosphorus biogeochemistry in intact and restored wetlands of Ontario and Manitoba](B03_Neuma_Soilphos)
+
+**Poster sessions**:
+
+[B03: Effects of Forest Harvesting on Carbon and Nitrogen Levels in Soils and Stream Sediments in Northwestern Ontario](B03_Gigi0_Effectso)
+
+[B03: The triple oxygen isotope system and the phosphorus cycle](B03_Listl_Thetripl)
+
+[B03: Examining Bioavailable Heavy Metals across Urban Riparian Zone Sediments of Southern Ontario](B03_Holla_Examinin)
 

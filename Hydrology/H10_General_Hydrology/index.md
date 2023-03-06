@@ -3,6 +3,16 @@ layout: home
 ---
 
 
+**Convenors**:
+
+<a href="mailto:aolusola@yorku.ca">aolusola@yorku.ca</a>
+
+<a href="mailto:papangee@mcmaster.ca">papangee@mcmaster.ca</a>
+
+<a href="mailto:quinn.lewis@uwaterloo.ca">quinn.lewis@uwaterloo.ca</a>
+
+**Oral sessions**:
+
 [H10: Investigating the Impacts and Model Integration of Oil Sands Development on Surface Runoff Pathways in the Northern Athabasca River Basin](H10_Kosti_Investig)
 
 [H10: Understanding the Hydrological Function of Opportunistic Wetlands on a Demonstration Pit Lake-Upland System](H10_Linde_Understa)
@@ -12,8 +22,6 @@ layout: home
 [H10: WF-HYPE model workflow: a step backwards to “re-vectorize” WATFLOOD to advance reproducibility in hydrologic modelling](H10_Wijay_WFHYPEmo)
 
 [H10: Boreal Forest fragmentation by bitumen exploration can impact local hydrology](H10_Weila_BorealFo)
-
-[H10: The hydrology of a swamp-peatland headwater catchment in the Boreal Plains of Northern Alberta](H10_Ponso_Thehydro)
 
 [H10: Hydrologic Modelling of the Fraser River Basin for Multivariate Climate Impact Assessment](H10_Giber_Hydrolog)
 
@@ -26,8 +34,6 @@ layout: home
 [H10: Projected Changes in Hydro-climatic Extremes and Their Implications for Great Lakes Basin Water Resources](H10_Rahim_Projecte)
 
 [H10: Investigations of ocean-aquifer interactions along the mega-tidal coastline of the Bay of Fundy](H10_Kuryl_Investig)
-
-[H10: Modelling climate change impacts on blue and green water resources availability in Canadian Prairies: Implication for crop production and virtual water export](H10_Faram_Modellin)
 
 [H10: 2-D Hydraulic Modelling for a First Nation on the Canadian Prairies](H10_Melro_DHydraul)
 
@@ -61,10 +67,6 @@ layout: home
 
 [H10: Integrating current Knowledge of Alpine Aquifers in Basin-Scale Hydrological Models to Improve Baseflow Prediction](H10_Ralph_Integrat)
 
-[H10: Atmospheric river contribution to hydroclimatic variables in the Nechako watershed](H10_SOBRA_Atmosphe)
-
-[H10: HYDROGEOLOGICAL INDICES – A QUANTITATIVE APPROACH TO MONITORING AND CHARACTERIZING GROUNDWATER DYNAMICS IN PRAIRIE GROUNDWATER SYSTEMS](H10_Ferri_HYDROGEO)
-
 [H10: The sensitivity of Canadian Prairies snowmelt, soil moisture and streamflow generation to climate change](H10_He000_Thesensi)
 
 [H10: Multi-model Intercomparison Project on the Saskatchewan-Nelson-Churchill River Basin (Nelson-MIP) – Phase 1](H10_Ahmed_Multimod)
@@ -80,4 +82,14 @@ layout: home
 [H10: Application of high frequency surrogate modeling of instream chloride to improve understanding of chloride mobilization in cottage country, Ontario](H10_Yang0_Applicat)
 
 [H10: A new algorithm for predicting water-driven sediment erosion on the Canadian Prairies](H10_Lawfo_Anewalgo)
+
+**Poster sessions**:
+
+[H10: The hydrology of a swamp-peatland headwater catchment in the Boreal Plains of Northern Alberta](H10_Ponso_Thehydro)
+
+[H10: Modelling climate change impacts on blue and green water resources availability in Canadian Prairies: Implication for crop production and virtual water export](H10_Faram_Modellin)
+
+[H10: Atmospheric river contribution to hydroclimatic variables in the Nechako watershed](H10_SOBRA_Atmosphe)
+
+[H10: HYDROGEOLOGICAL INDICES – A QUANTITATIVE APPROACH TO MONITORING AND CHARACTERIZING GROUNDWATER DYNAMICS IN PRAIRIE GROUNDWATER SYSTEMS](H10_Ferri_HYDROGEO)
 

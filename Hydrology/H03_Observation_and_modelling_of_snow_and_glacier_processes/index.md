@@ -3,6 +3,16 @@ layout: home
 ---
 
 
+**Convenors**:
+
+<a href="mailto:aolusola@yorku.ca">aolusola@yorku.ca</a>
+
+<a href="mailto:papangee@mcmaster.ca">papangee@mcmaster.ca</a>
+
+<a href="mailto:quinn.lewis@uwaterloo.ca">quinn.lewis@uwaterloo.ca</a>
+
+**Oral sessions**:
+
 [H03: Quantifying the snowpack surface energy budget of a subarctic alpine catchment: Shar Ta Gà’ (Grizzly Creek), Yukon](H03_Valen_Quantify)
 
 [H03: Snow Interception Processes and Prediction in a Windswept Subalpine Environment](H03_Cebul_SnowInte)
@@ -20,6 +30,8 @@ layout: home
 [H03: Fractional Snow Cover Area Modelling in Mountainous Terrain](H03_Casso_Fraction)
 
 [H03: A comparison of snowmelt timing estimates from Sentinel-1 Synthetic Aperture Radar observations and in-situ snow water equivalence records in British Columbia, Canada.](H03_Daryc_Acompari)
+
+**Poster sessions**:
 
 [H03: Contributions of glaciers to streamflow in Illecillewaet catchment and how they have varied in response to climatic variability and glacier retreat](H03_Chai0_Contribu)
 

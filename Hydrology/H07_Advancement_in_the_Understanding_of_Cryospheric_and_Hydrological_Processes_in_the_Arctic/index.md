@@ -3,7 +3,15 @@ layout: home
 ---
 
 
-[H07: Investigating heat flow through temperate region lake ice](H07_Alvar_Investig)
+**Convenors**:
+
+<a href="mailto:aolusola@yorku.ca">aolusola@yorku.ca</a>
+
+<a href="mailto:papangee@mcmaster.ca">papangee@mcmaster.ca</a>
+
+<a href="mailto:quinn.lewis@uwaterloo.ca">quinn.lewis@uwaterloo.ca</a>
+
+**Oral sessions**:
 
 [H07: Evaluating a hierarchy of bias correction methods for reanalysis SWE estimates in northern Canada](H07_Kanda_Evaluati)
 
@@ -18,4 +26,8 @@ layout: home
 [H07: Understanding topographical and hydrological controls on ice-wedge polygonal subsurface regimes](H07_Walke_Understa)
 
 [H07: The impact of permafrost and water temperature changes on Canada’s Arctic](H07_Broes_Theimpac)
+
+**Poster sessions**:
+
+[H07: Investigating heat flow through temperate region lake ice](H07_Alvar_Investig)
 

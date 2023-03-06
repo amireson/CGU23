@@ -3,6 +3,10 @@ layout: home
 ---
 
 
+**Convenors**:
+
+**Oral sessions**:
+
 [S04: Evolution of geoid undulations due to subducted slabs in the upper mantle since 140 Ma](S04_Barua_Evolutio)
 
 [S04: Application of Machine Learning Techniques in Coal Mining Using Well-Log Data](S04_GONUL_Applicat)
@@ -19,11 +23,13 @@ layout: home
 
 [S04: Upper mantle flow patterns and slab geometry: 3D numerical modeling of subduction zone](S04_Liu00_Upperman)
 
-[S04: Processing and improving the quality and interpretability of spectrometric data](S04_Liu00_Processi)
-
 [S04: Symptomatic vs. Asymptomatic drips with applications to the Central Andes and Central Anatolia](S04_Ander_Symptoma)
 
 [S04: The thermal state of the Cordillera and other subduction zone backarc mantles; the corner flow model](S04_Hyndm_Thetherm)
 
 [S04: “Water’s impact on planetary lithosphere mobility”: Influence of surface temperature, yield stress and activation energy on the mantle dynamics of Earth-size planets.](S04_McGro_Watersim)
+
+**Poster sessions**:
+
+[S04: Processing and improving the quality and interpretability of spectrometric data](S04_Liu00_Processi)
 
