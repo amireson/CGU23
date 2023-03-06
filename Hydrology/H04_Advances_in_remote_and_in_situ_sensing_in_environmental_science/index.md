@@ -5,7 +5,7 @@ layout: home
 
 **Convenors**:
 
-<a href="mailto:baret.kurylyk@dal.ca">baret.kurylyk@dal.ca</a>
+<a href="mailto:barret.kurylyk@dal.ca">barret.kurylyk@dal.ca</a>
 
 <a href="mailto:kathryn.smith@dal.ca">kathryn.smith@dal.ca</a>
 

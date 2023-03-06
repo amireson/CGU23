@@ -7,6 +7,8 @@ layout: home
 
 <a href="mailto:ElynHumphreys@cunet.carleton.ca">ElynHumphreys@cunet.carleton.ca</a>
 
+<a href="mailto:phillip.harder@usask.ca">phillip.harder@usask.ca</a>
+
 <a href="mailto:sara.knox@ubc.ca">sara.knox@ubc.ca</a>
 
 <a href="mailto:sbrown06@uoguelph.ca">sbrown06@uoguelph.ca</a>

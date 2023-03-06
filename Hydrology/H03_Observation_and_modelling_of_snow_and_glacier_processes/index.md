@@ -5,6 +5,12 @@ layout: home
 
 **Convenors**:
 
+<a href="mailto:cbm038@mail.usask.ca">cbm038@mail.usask.ca</a>
+
+<a href="mailto:phillip.harder@usask.ca">phillip.harder@usask.ca</a>
+
+<a href="mailto:vincent.vionnet@usask.ca">vincent.vionnet@usask.ca</a>
+
 **Oral sessions**:
 
 [H03: Quantifying the snowpack surface energy budget of a subarctic alpine catchment: Shar Ta Gà’ (Grizzly Creek), Yukon](H03_Valen_Quantify)

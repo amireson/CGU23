@@ -5,6 +5,10 @@ layout: home
 
 **Convenors**:
 
+<a href="mailto:barret.kurylyk@dal.ca">barret.kurylyk@dal.ca</a>
+
+<a href="mailto:whittington.pete@gmail.com">whittington.pete@gmail.com</a>
+
 **Oral sessions**:
 
 [H10: Investigating the Impacts and Model Integration of Oil Sands Development on Surface Runoff Pathways in the Northern Athabasca River Basin](H10_Kosti_Investig)

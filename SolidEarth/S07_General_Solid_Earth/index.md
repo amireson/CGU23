@@ -5,6 +5,14 @@ layout: home
 
 **Convenors**:
 
+<a href="mailto:behnam.seyed@uleth.ca">behnam.seyed@uleth.ca</a>
+
+<a href="mailto:julian.lowman@utoronto.ca">julian.lowman@utoronto.ca</a>
+
+<a href="mailto:julian.lowman@utoronto.ca">julian.lowman@utoronto.ca</a>
+
+<a href="mailto:pascal.audet@uottawa.ca">pascal.audet@uottawa.ca</a>
+
 **Oral sessions**:
 
 [S07: Natural Resources Canada’s National Earthquake Early Warning Program](S07_Perry_NaturalR)
