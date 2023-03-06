@@ -5,11 +5,11 @@ layout: home
 
 **Convenors**:
 
-<a href="mailto:aolusola@yorku.ca">aolusola@yorku.ca</a>
+<a href="mailto:Sheena.Spencer@gov.bc.ca">Sheena.Spencer@gov.bc.ca</a>
 
-<a href="mailto:papangee@mcmaster.ca">papangee@mcmaster.ca</a>
+<a href="mailto:jason.leach@nrcan-rncan.gc.ca">jason.leach@nrcan-rncan.gc.ca</a>
 
-<a href="mailto:quinn.lewis@uwaterloo.ca">quinn.lewis@uwaterloo.ca</a>
+<a href="mailto:mnehemy@trent.ca">mnehemy@trent.ca</a>
 
 **Oral sessions**:
 

@@ -5,6 +5,12 @@ layout: home
 
 **Convenors**:
 
+<a href="mailto:fengzhou.tan@gmail.com">fengzhou.tan@gmail.com</a>
+
+<a href="mailto:soliva@uvic.ca">soliva@uvic.ca</a>
+
+<a href="mailto:yan.jiang@nrcan-rncan.gc.ca">yan.jiang@nrcan-rncan.gc.ca</a>
+
 **Oral sessions**:
 
 [S05: How many waveforms do I need? Understanding how the architecture of seismic datasets affects the performance of deep learning models for automated phase-picking.](S05_Mai00_Howmanyw)

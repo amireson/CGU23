@@ -5,11 +5,11 @@ layout: home
 
 **Convenors**:
 
-<a href="mailto:aolusola@yorku.ca">aolusola@yorku.ca</a>
+<a href="mailto:dan.moore@ubc.ca">dan.moore@ubc.ca</a>
 
-<a href="mailto:papangee@mcmaster.ca">papangee@mcmaster.ca</a>
+<a href="mailto:kevin.shook@usask.ca">kevin.shook@usask.ca</a>
 
-<a href="mailto:quinn.lewis@uwaterloo.ca">quinn.lewis@uwaterloo.ca</a>
+<a href="mailto:paul.h.whitfield@gmail.com">paul.h.whitfield@gmail.com</a>
 
 **Oral sessions**:
 

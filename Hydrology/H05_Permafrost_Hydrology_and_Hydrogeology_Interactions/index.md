@@ -5,11 +5,9 @@ layout: home
 
 **Convenors**:
 
-<a href="mailto:aolusola@yorku.ca">aolusola@yorku.ca</a>
+<a href="mailto:chris.spence@ec.gc.ca">chris.spence@ec.gc.ca</a>
 
-<a href="mailto:papangee@mcmaster.ca">papangee@mcmaster.ca</a>
-
-<a href="mailto:quinn.lewis@uwaterloo.ca">quinn.lewis@uwaterloo.ca</a>
+<a href="mailto:peter.morse@NRCan-RNCan.gc.ca">peter.morse@NRCan-RNCan.gc.ca</a>
 
 **Oral sessions**:
 

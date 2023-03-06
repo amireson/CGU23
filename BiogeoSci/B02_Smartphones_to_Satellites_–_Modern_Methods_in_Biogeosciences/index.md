@@ -5,11 +5,13 @@ layout: home
 
 **Convenors**:
 
-<a href="mailto:colin.whitfield@usask.ca">colin.whitfield@usask.ca</a>
+<a href="mailto:bvanhuizen@uwaterloo.ca">bvanhuizen@uwaterloo.ca</a>
 
-<a href="mailto:murray.richardson@carleton.ca">murray.richardson@carleton.ca</a>
+<a href="mailto:mlhunter@uwaterloo.ca">mlhunter@uwaterloo.ca</a>
 
-<a href="mailto:n.casson@uwinnipeg.ca">n.casson@uwinnipeg.ca</a>
+<a href="mailto:nballiston@uwaterloo.ca">nballiston@uwaterloo.ca</a>
+
+<a href="mailto:npopovic@uwaterloo.ca">npopovic@uwaterloo.ca</a>
 
 **Oral sessions**:
 

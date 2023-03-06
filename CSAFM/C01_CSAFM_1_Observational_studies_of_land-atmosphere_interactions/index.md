@@ -5,11 +5,11 @@ layout: home
 
 **Convenors**:
 
-<a href="mailto:Catherine.champagne@agr.gc.ca">Catherine.champagne@agr.gc.ca</a>
+<a href="mailto:ElynHumphreys@cunet.carleton.ca">ElynHumphreys@cunet.carleton.ca</a>
 
-<a href="mailto:Timi.Ojo@gov.mb.ca">Timi.Ojo@gov.mb.ca</a>
+<a href="mailto:sara.knox@ubc.ca">sara.knox@ubc.ca</a>
 
-<a href="mailto:yinsuo.zhang@agr.gc.ca">yinsuo.zhang@agr.gc.ca</a>
+<a href="mailto:sbrown06@uoguelph.ca">sbrown06@uoguelph.ca</a>
 
 **Oral sessions**:
 

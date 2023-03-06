@@ -5,11 +5,13 @@ layout: home
 
 **Convenors**:
 
-<a href="mailto:aolusola@yorku.ca">aolusola@yorku.ca</a>
+<a href="mailto:frezanez@uwaterloo.ca">frezanez@uwaterloo.ca</a>
 
-<a href="mailto:papangee@mcmaster.ca">papangee@mcmaster.ca</a>
+<a href="mailto:nballiston@uwaterloo.ca">nballiston@uwaterloo.ca</a>
 
-<a href="mailto:quinn.lewis@uwaterloo.ca">quinn.lewis@uwaterloo.ca</a>
+<a href="mailto:pvc@uwaterloo.ca">pvc@uwaterloo.ca</a>
+
+<a href="mailto:raoul.couture@chm.ulaval.ca">raoul.couture@chm.ulaval.ca</a>
 
 **Oral sessions**:
 

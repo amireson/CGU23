@@ -5,11 +5,9 @@ layout: home
 
 **Convenors**:
 
-<a href="mailto:aolusola@yorku.ca">aolusola@yorku.ca</a>
+<a href="mailto:Alain.Pietroniro@ucalgary.ca">Alain.Pietroniro@ucalgary.ca</a>
 
-<a href="mailto:papangee@mcmaster.ca">papangee@mcmaster.ca</a>
-
-<a href="mailto:quinn.lewis@uwaterloo.ca">quinn.lewis@uwaterloo.ca</a>
+<a href="mailto:Prabin.Rokaya@gov.ab.ca">Prabin.Rokaya@gov.ab.ca</a>
 
 **Oral sessions**:
 

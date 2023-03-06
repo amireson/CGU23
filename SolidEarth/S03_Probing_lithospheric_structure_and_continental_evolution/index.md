@@ -5,6 +5,10 @@ layout: home
 
 **Convenors**:
 
+<a href="mailto:andrew.frederiksen@umanitoba.ca">andrew.frederiksen@umanitoba.ca</a>
+
+<a href="mailto:darbyshire.fiona_ann@uqam.ca">darbyshire.fiona_ann@uqam.ca</a>
+
 **Oral sessions**:
 
 [S03: Lithospheric Fabric and Active Mantle Flow Beneath Canada from Craton to Cordillera: Evidence from Depth-Dependent Seismic Anisotropy](S03_Darby_Lithosph)

@@ -5,6 +5,10 @@ layout: home
 
 **Convenors**:
 
+<a href="mailto:clement.esteve@univie.ac.at">clement.esteve@univie.ac.at</a>
+
+<a href="mailto:jeremy.gosselin@ucalgary.ca">jeremy.gosselin@ucalgary.ca</a>
+
 **Oral sessions**:
 
 [S02: Variations in Lithospheric Fabric Across the Cordillera/Shield Boundary: Effect of Different Averaging Methods](S02_Frede_Variatio)

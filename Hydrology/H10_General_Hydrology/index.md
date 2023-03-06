@@ -5,12 +5,6 @@ layout: home
 
 **Convenors**:
 
-<a href="mailto:aolusola@yorku.ca">aolusola@yorku.ca</a>
-
-<a href="mailto:papangee@mcmaster.ca">papangee@mcmaster.ca</a>
-
-<a href="mailto:quinn.lewis@uwaterloo.ca">quinn.lewis@uwaterloo.ca</a>
-
 **Oral sessions**:
 
 [H10: Investigating the Impacts and Model Integration of Oil Sands Development on Surface Runoff Pathways in the Northern Athabasca River Basin](H10_Kosti_Investig)

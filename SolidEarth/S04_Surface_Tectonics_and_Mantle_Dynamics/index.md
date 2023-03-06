@@ -5,6 +5,12 @@ layout: home
 
 **Convenors**:
 
+<a href="mailto:claire.currie@ualberta.ca">claire.currie@ualberta.ca</a>
+
+<a href="mailto:erkan.gun@utoronto.ca">erkan.gun@utoronto.ca</a>
+
+<a href="mailto:r.pysklywec@utoronto.ca">r.pysklywec@utoronto.ca</a>
+
 **Oral sessions**:
 
 [S04: Evolution of geoid undulations due to subducted slabs in the upper mantle since 140 Ma](S04_Barua_Evolutio)

@@ -5,11 +5,13 @@ layout: home
 
 **Convenors**:
 
+<a href="mailto:britt.hall@uregina.ca">britt.hall@uregina.ca</a>
+
 <a href="mailto:colin.whitfield@usask.ca">colin.whitfield@usask.ca</a>
 
-<a href="mailto:murray.richardson@carleton.ca">murray.richardson@carleton.ca</a>
+<a href="mailto:lauren.thompson@ualberta.ca">lauren.thompson@ualberta.ca</a>
 
-<a href="mailto:n.casson@uwinnipeg.ca">n.casson@uwinnipeg.ca</a>
+<a href="mailto:sophie.wilkinson@utoronto.ca">sophie.wilkinson@utoronto.ca</a>
 
 **Oral sessions**:
 

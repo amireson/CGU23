@@ -5,12 +5,6 @@ layout: home
 
 **Convenors**:
 
-<a href="mailto:colin.whitfield@usask.ca">colin.whitfield@usask.ca</a>
-
-<a href="mailto:murray.richardson@carleton.ca">murray.richardson@carleton.ca</a>
-
-<a href="mailto:n.casson@uwinnipeg.ca">n.casson@uwinnipeg.ca</a>
-
 **Oral sessions**:
 
 [B00: Quantifying the effects of different disturbances on peatland carbon stocks and fluxes: connecting science and policy](B00_Harri_Quantify)

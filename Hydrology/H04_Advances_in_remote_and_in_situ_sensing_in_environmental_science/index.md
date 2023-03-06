@@ -5,11 +5,9 @@ layout: home
 
 **Convenors**:
 
-<a href="mailto:aolusola@yorku.ca">aolusola@yorku.ca</a>
+<a href="mailto:baret.kurylyk@dal.ca">baret.kurylyk@dal.ca</a>
 
-<a href="mailto:papangee@mcmaster.ca">papangee@mcmaster.ca</a>
-
-<a href="mailto:quinn.lewis@uwaterloo.ca">quinn.lewis@uwaterloo.ca</a>
+<a href="mailto:kathryn.smith@dal.ca">kathryn.smith@dal.ca</a>
 
 **Oral sessions**:
 

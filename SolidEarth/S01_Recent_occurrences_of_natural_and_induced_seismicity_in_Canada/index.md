@@ -5,6 +5,8 @@ layout: home
 
 **Convenors**:
 
+<a href="mailto:rebecca.salvage1@ucalgary.ca">rebecca.salvage1@ucalgary.ca</a>
+
 **Oral sessions**:
 
 [S01: Statistical and clustering analysis of microseismicity from a potash mine in Saskatchewan](S01_Shche_Statisti)

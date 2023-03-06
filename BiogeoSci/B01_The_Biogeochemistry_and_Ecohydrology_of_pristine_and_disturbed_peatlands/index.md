@@ -5,11 +5,11 @@ layout: home
 
 **Convenors**:
 
-<a href="mailto:colin.whitfield@usask.ca">colin.whitfield@usask.ca</a>
+<a href="mailto:WhittingtonP@brandonu.ca">WhittingtonP@brandonu.ca</a>
 
-<a href="mailto:murray.richardson@carleton.ca">murray.richardson@carleton.ca</a>
+<a href="mailto:mstrack@uwaterloo.ca">mstrack@uwaterloo.ca</a>
 
-<a href="mailto:n.casson@uwinnipeg.ca">n.casson@uwinnipeg.ca</a>
+<a href="mailto:nigel.roulet@mcgill.ca">nigel.roulet@mcgill.ca</a>
 
 **Oral sessions**:
 

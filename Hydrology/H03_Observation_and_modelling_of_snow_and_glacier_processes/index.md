@@ -5,12 +5,6 @@ layout: home
 
 **Convenors**:
 
-<a href="mailto:aolusola@yorku.ca">aolusola@yorku.ca</a>
-
-<a href="mailto:papangee@mcmaster.ca">papangee@mcmaster.ca</a>
-
-<a href="mailto:quinn.lewis@uwaterloo.ca">quinn.lewis@uwaterloo.ca</a>
-
 **Oral sessions**:
 
 [H03: Quantifying the snowpack surface energy budget of a subarctic alpine catchment: Shar Ta Gà’ (Grizzly Creek), Yukon](H03_Valen_Quantify)

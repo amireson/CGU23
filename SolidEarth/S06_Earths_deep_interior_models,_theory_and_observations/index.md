@@ -5,6 +5,10 @@ layout: home
 
 **Convenors**:
 
+<a href="mailto:behnam.seyed@uleth.ca">behnam.seyed@uleth.ca</a>
+
+<a href="mailto:julian.lowman@utoronto.ca">julian.lowman@utoronto.ca</a>
+
 **Oral sessions**:
 
 [S06: The role of subduction in the formation of Pangean oceanic large igneous provinces](S06_Heron_Theroleo)
