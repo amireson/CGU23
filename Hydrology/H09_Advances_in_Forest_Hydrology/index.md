@@ -13,11 +13,15 @@ layout: home
 
 [H09: Organic matter composition affects methylmercury production and accumulation in boreal soils and stream sediment during forest harvesting](H09_Huang_Organicm)
 
+[H09: The hydrological and geomorphological responses of Fishtrap Creek watershed, BC, to the 2003 McLure wildfire](H09_Owens_Thehydro)
+
 [H09: Applications of water stable isotopes in catchment classification and hydrologic modeling in Northeastern Ontario Precambrian shield watersheds](H09_Tafvi_Applicat)
 
 [H09: Assessing changes in land cover between 1984 and 2019 for Canada's gauged forest watersheds](H09_Hudso_Assessin)
 
 [H09: Improving the modeling of carbon and water fluxes at a mixed forest site in Canada through the Bayesian parameter optimization](H09_Leng0_Improvin)
+
+[H09: Snow Melt Dynamics and Ground Temperature Regulation In Alpine Krummholz Stands](H09_Shea0_SnowMelt)
 
 [H09: Predicting no-flow periods for headwater streams in a snow-dominated forested landscape](H09_Leach_Predicti)
 

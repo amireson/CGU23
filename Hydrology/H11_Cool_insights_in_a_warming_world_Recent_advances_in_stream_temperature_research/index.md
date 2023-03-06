@@ -17,3 +17,5 @@ layout: home
 
 [H11: Nechako Watershed stream temperature monitoring and research, 2019-2023](H11_Dery0_NechakoW)
 
+[H11: Monitoring and modeling of riverine thermal regimes in northern British Columbia, Canada](H11_Islam_Monitori)
+

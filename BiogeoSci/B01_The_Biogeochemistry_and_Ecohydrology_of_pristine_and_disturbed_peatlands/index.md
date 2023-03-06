@@ -11,6 +11,8 @@ layout: home
 
 [B01: Comparing wildfire recovery in a bog and a fen in Fort McMurray, Alberta](B01_Wegen_Comparin)
 
+[B01: Influence of hydrological connectivity and ditch substrate on nutrient transformations and export during sequential peat harvesting phases in a sub-humid, glaciated, boreal landscape](B01_Littl_Influenc)
+
 [B01: Role of different horticultural amendments in altering emissions from peat and its biogeochemistry](B01_Sharm_Roleofdi)
 
 [B01: A synoptic study of carbon cycling in southern Ontario swamps](B01_Schmi_Asynopti)
@@ -49,7 +51,11 @@ layout: home
 
 [B01: Vegetation community composition following disturbances in peatland and rock barren landscapes](B01_Broyd_Vegetati)
 
+[B01: Methane Emissions from a Tropical Peatland Drainage Canal Under Varying Flow Conditions](B01_Somer_MethaneE)
+
 [B01: Variance between simulated peat accumulation over time and peat accumulation from core samples.](B01_Watts_Variance)
+
+[B01: Peatland plant productivity as impacted by beaver damming](B01_Stoll_Peatland)
 
 [B01: Effects of seismic line reclamation on peatland carbon exchange](B01_Tabas_Effectso)
 

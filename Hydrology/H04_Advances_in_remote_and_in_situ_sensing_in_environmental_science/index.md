@@ -11,9 +11,17 @@ layout: home
 
 [H04: RADARSAT-2 SYNTHETIC APERTURE RADAR (SAR) SOIL MOISTURE OVER PRAIRIE REGION AT BRIGHT WATER CREEK](H04_lee00_RADARSAT)
 
+[H04: SATELLITE RETRIEVAL OF CHLA IN SMALL INLAND WATERS VIA LOCALLY-TRAINED MACHINE LEARNING MODELS: RECOMMENDATIONS BASED ON A PRAIRIE LAKE WORKFLOW](H04_Chego_SATELLIT)
+
 [H04: Comparison of in situ and drone-based lidar snow depth measurements in a forested subalpine region](H04_Haras_Comparis)
 
 [H04: Mapping spatiotemporal variability in coastal water temperatures using UAV-based thermal imaging and fiber-optic thermal sensing](H04_Smith_Mappings)
 
+[H04: A novel low-cost open-source clarity sensor for open hydrology](H04_Clayt_Anovello)
+
+[H04: Microtopographic control on the spatial distribution of krummholz trees in an alpine environment.](H04_McLea_Microtop)
+
 [H04: REMOTE SENSING EVAPOTRANSPIRATION MAPPING: A KEY TO DISAGGREGATE EDDY-COVARIANCE FOOTPRINTS](H04_Hunte_REMOTESE)
+
+[H04: Performance Evaluation of the RADARSAT Constellation Mission for Soil Moisture Retrieval by Compact Polarimetry](H04_Dabbo_Performa)
 

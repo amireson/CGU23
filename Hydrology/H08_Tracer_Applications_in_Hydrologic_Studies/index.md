@@ -15,5 +15,9 @@ layout: home
 
 [H08: Lake level influence on groundwater upwelling in shore-spawning kokanee habitat in Kootenay Lake, British Columbia.](H08_Spoon_Lakeleve)
 
+[H08: Dissolved radon characterization of stream-groundwater connectivity across an alluvial fan in the South Okanagan Valley, British Columbia](H08_Montg_Dissolve)
+
+[H08: Using stable isotope mass balance and isotope-based streamflow partitioning to assess water balance changes in a coastal Arctic watershed in iqaluktuttiaq, Nunavut](H08_Leung_Usingsta)
+
 [H08: A 1000-yr record of temperature from isotopic analysis of the deep critical zone in central China](H08_Wang0_Ayrrecor)
 

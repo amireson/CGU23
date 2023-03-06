@@ -4,9 +4,9 @@ title: "Improved earthquake clustering using a density-normalized DBSCAN algorit
 ---
 
 
-**Abstract ID**: G00_Saber_Improved
+**Abstract ID**: S01_Saber_Improved
 
-Session ID: [G00](.)
+Session ID: [S01](.)
 
 Corresponding author: Sina Sabermahani <a href="mailto:sabermas@myumanitoba.ca">sabermas@myumanitoba.ca</a>
 

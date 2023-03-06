@@ -3,6 +3,8 @@ layout: home
 ---
 
 
+[S04: Evolution of geoid undulations due to subducted slabs in the upper mantle since 140 Ma](S04_Barua_Evolutio)
+
 [S04: Application of Machine Learning Techniques in Coal Mining Using Well-Log Data](S04_GONUL_Applicat)
 
 [S04: Subduction erosion and crustal relamination: insights from 2D numerical models](S04_Pan00_Subducti)
@@ -10,6 +12,8 @@ layout: home
 [S04: Collision Triggered Fast Slab Break-Off and Subsequent Subduction Polarity Reversal](S04_Gün00_Collisio)
 
 [S04: Mantle dynamics and the persistence of surface topography and tectonics](S04_Pyskl_Mantledy)
+
+[S04: Receiver function imaging of the 660 discontinuities beneath Yellowstone: New constraints on the origin of thermal upwelling](S04_Sun00_Receiver)
 
 [S04: The formation of a continental fragment due to structural inheritance: geodynamic model for the Lewisian Terrane, NW Scotland](S04_Yu000_Theforma)
 

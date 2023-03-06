@@ -7,6 +7,8 @@ layout: home
 
 [C02: Characterizing the non-stationarity in annual maximum rainfall under the changing climate: A Bayesian based stochastic modeling approach](C02_Kasia_Characte)
 
+[C02: Salt distribution in the Prairie Pothole Region under a changing Climate](C02_Draud_Saltdist)
+
 [C02: Impacts of managed dike realignment on soils and shallow groundwater](C02_Tackl_Impactso)
 
 [C02: A framework to evaluate agricultural water management techniques to enhance crop productivity using a coupled hydrological crop growth model for the Canadian Prairies](C02_Harde_Aframewo)
@@ -30,4 +32,6 @@ layout: home
 [C02: Hydroclimatic and environmental effects on the run timing of kokanee salmon in Peachland Creek, British Columbia](C02_Moore_Hydrocli)
 
 [C02: Representing boreal fire, harvest, and subgrid-scale heterogeneity in the Canadian Land Surface Scheme Including Biogeochemical Cycles.](C02_Curas_Represen)
+
+[C02: How do management practices across ecoregions impact soil microbial diversity and aggregate stability as indicators of soil health?](C02_Faram_Howdoman)
 

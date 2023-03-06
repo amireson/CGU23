@@ -4,9 +4,9 @@ title: "Classification of anthropogenic ground deformation in the Western Canadi
 ---
 
 
-**Abstract ID**: G00_Samso_Classifi
+**Abstract ID**: G01_Samso_Classifi
 
-Session ID: [G00](.)
+Session ID: [G01](.)
 
 Corresponding author: Sergey Samsonov <a href="mailto:sergey.samsonov@nrcan-rncan.gc.ca">sergey.samsonov@nrcan-rncan.gc.ca</a>
 

@@ -4,9 +4,9 @@ title: "Satellite interferometry for regional assessment of landslide hazard to 
 ---
 
 
-**Abstract ID**: G00_Samso_Satellit
+**Abstract ID**: G01_Samso_Satellit
 
-Session ID: [G00](.)
+Session ID: [G01](.)
 
 Corresponding author: Sergey Samsonov <a href="mailto:sergey.samsonov@nrcan-rncan.gc.ca">sergey.samsonov@nrcan-rncan.gc.ca</a>
 

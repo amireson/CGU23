@@ -9,7 +9,13 @@ layout: home
 
 [S05: Fault frictional parameter optimization using Bayesian data assimilation in a subduction zone earthquake and slow slip model](S05_Zhang_Faultfri)
 
+[S05: Temporary distributed fibre optic deployment for monitoring seismic and aseismic processes during hydraulic fracturing](S05_Eaton_Temporar)
+
+[S05: Numerical Modeling of Slow Slip and Earthquake Interaction on the Costa Rica Subduction Fault](S05_Lu000_Numerica)
+
 [S05: Detection of earthquakes and whale calls using seismic recordings along the St-Lawrence paleorift in eastern Canada](S05_Liu00_Detectio)
+
+[S05: Ambient noise monitoring in a region of disposal-induced seismicity, Central Alberta](S05_rojas_Ambientn)
 
 [S05: From aseismic to seismic: Can we pin-point the elusive stress transition?](S05_Salva_Fromasei)
 

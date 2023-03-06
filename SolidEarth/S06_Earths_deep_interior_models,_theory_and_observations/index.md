@@ -3,6 +3,8 @@ layout: home
 ---
 
 
+[S06: Influence of heterogeneous thermal conductivity and heat-producing element enrichment on core-mantle boundary heat flux pattern : insights from simulations of thermo-chemical convection.](S06_Desch_Influenc)
+
 [S06: The role of subduction in the formation of Pangean oceanic large igneous provinces](S06_Heron_Theroleo)
 
 [S06: Spherical shell geometry convection in a fluid with an Arrhenius viscosity: the impact of core size on the thermal structure of terrestrial bodies](S06_Javah_Spherica)

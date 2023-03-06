@@ -5,7 +5,11 @@ layout: home
 
 [H07: Investigating heat flow through temperate region lake ice](H07_Alvar_Investig)
 
+[H07: Evaluating a hierarchy of bias correction methods for reanalysis SWE estimates in northern Canada](H07_Kanda_Evaluati)
+
 [H07: Comparison of Observed and Simulated Net Radiation for a Small High Arctic Lake during the ice-free period, August: 2019, 2021 and 2022](H07_Robin_Comparis)
+
+[H07: Measuring the ice-water interface roughness of lake ice and the importance for space-based ice thickness retrievals](H07_BACAL_Measurin)
 
 [H07: Modelling recent ice-wedge polygon degradation and increased thermokarst lake drainage in the western Canadian Arctic](H07_Thorn_Modellin)
 
